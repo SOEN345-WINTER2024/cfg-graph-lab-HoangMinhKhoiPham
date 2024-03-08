@@ -136,3 +136,9 @@ Test Path:
 [0,15,18]	
 [0,16,18]
 [0,17,18]
+
+
+efg:
+![efg](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-HoangMinhKhoiPham/assets/97756628/67fd71b2-3e8e-4690-8ca6-8b4c46d55721)
+
+
